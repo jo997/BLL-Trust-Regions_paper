@@ -1,4 +1,4 @@
-# Readme: Case Study on Threshold Value in Bayesian Neural Network Last Layer
+# Case Study on Threshold Value in Bayesian Neural Network Last Layer
 
 ## Introduction
 This repository contains the findings of a case study focusing on the determination of threshold values in the last layer of a Bayesian Neural Network (BNN). The study investigates the impact of threshold selection on model predictive control, referencing the paper "Model Predictive Control with Neural Network System Model and Bayesian Last Layer Trust Regions" by Felix Fiedler and Sergio Lucia.
