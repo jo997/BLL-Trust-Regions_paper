@@ -5,9 +5,8 @@ This repository contains the findings of a case study focusing on the determinat
 
 ## Citation
 This work is based on:
-```
-Fiedler, F., & Lucia, S. (Year of Publication). Model Predictive Control with Neural Network System Model and Bayesian Last Layer Trust Regions. [https://github.com/4flixt/2022_BLL_MPC_Materials]
-```
+Fiedler, F., & Lucia, S. (2022). Model Predictive Control with Neural Network System Model and Bayesian Last Layer Trust Regions. [Link](https://github.com/4flixt/2022_BLL_MPC_Materials)
+
 
 ## Overview
 The case study explores the role of threshold values in enhancing the performance and reliability of Bayesian Neural Networks, particularly in the context of model predictive control systems. 
