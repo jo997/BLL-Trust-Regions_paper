@@ -5,9 +5,6 @@ This repository contains the findings of a case study focusing on the determinat
 
 The case study explores the role of threshold values in enhancing the performance and reliability of Bayesian Neural Networks, particularly in the context of model predictive control systems.   
 It investigates various threshold selections and evaluates their impact on system behavior and control performance.
-  
-The findings of this case study contribute to the understanding of threshold value selection in Bayesian Neural Networks, particularly in the context of model predictive control systems.   
-Further research and experimentation are encouraged to explore additional aspects and potential applications of this concept.
 
     
 This work is based on:  
